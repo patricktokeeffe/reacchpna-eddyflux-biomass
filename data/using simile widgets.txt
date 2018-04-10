@@ -7,3 +7,6 @@ Observations using SIMILE widgets:
     * javascript Date() _does_ require 'T' to parse correctly
 
 
+as of 2018-04-10, POC no longer works, also code is on Github
+* https://github.com/simile-widgets/timeline
+
